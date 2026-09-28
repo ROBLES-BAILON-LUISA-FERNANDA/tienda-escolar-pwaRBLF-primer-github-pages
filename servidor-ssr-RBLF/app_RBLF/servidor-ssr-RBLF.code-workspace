@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "servidor-ssr-RBLF",
+		"liveServer.settings.port": 5501
+	}
+}
